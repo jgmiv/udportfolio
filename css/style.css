@@ -47,6 +47,9 @@ footer span { float: right; font-style: italic; }
   body { font-size: 12px;}
   header p { padding-left: 4.5em;}
 }
+<<<<<<< HEAD
 p.legibility {
   text-rendering: optimizeLegibility;
 }
+=======
+>>>>>>> 297f79ad28f0da7e24f7e3928814a5329d9a556b
